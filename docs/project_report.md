@@ -1,6 +1,6 @@
-       Library Management System
+## Library Management System
 
-     Project Description
+## Project Description
 
 The Library Management System is a DBMS-based project developed to automate library operations such as book management, member management, and book issuing/returning.
 
