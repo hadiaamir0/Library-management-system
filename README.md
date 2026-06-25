@@ -42,7 +42,7 @@ library-management-system
 │
 └── README.md
 
-    Learning Outcomes
+## Learning Outcomes
 
 - Database Design
 - SQL Queries
