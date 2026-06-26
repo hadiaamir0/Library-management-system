@@ -31,16 +31,12 @@ A database-driven Library Management System developed using C++ and MySQL to aut
 
 library-management-system
 │
-├── database
-│   ├── 01_create_database.sql
-│   ├── 02_insert_sample_data.sql
-│   └── 03_queries.sql
-│
-├── docs
-│
-
-│
-└── README.md
+ database
+   01_create_database.sql    
+   02_insert_sample_data.sql
+   03_queries.sql
+   docs
+   README.md
 
 ## Learning Outcomes
 
