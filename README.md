@@ -38,7 +38,7 @@ library-management-system
 │
 ├── docs
 │
-├── screenshots
+
 │
 └── README.md
 
